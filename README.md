@@ -5,3 +5,4 @@
  - [ch02：Git分支](./ch02.md) 
 
 
+**TODO: Skipped many parts in between. Need to read them.**
